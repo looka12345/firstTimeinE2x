@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Transaction>
+  <PropertyDataSet timestamp="202X-XX-XXT00:00:00-0X:00">
+    <Property>1</Property>
+    <RoomData>
+      <RoomID>3</RoomID>
+      <Name>
+        <Text Text="'.$value['Name'].'"/>
+      </Name>
+      <Description Text="hidi eehid e">gutums</Description>
+      <Capacity>6</Capacity>
+      <PhotoURL>
+        <Caption Text="Text">Caption</Caption>
+        <URL>man.jpg</URL>
+      </PhotoURL>
+      <RoomID>4</RoomID>
+      <Name>
+        <Text Text="Text" />
+      </Name>
+      <Description Text="hidi eehid e">gentud a</Description>
+      <Capacity>9</Capacity>
+      <PhotoURL>
+        <Caption Text="Text">Caption</Caption>
+        <URL>mail.jpg</URL>
+      </PhotoURL>
+    </RoomData>
+    <PackageData>
+      <PackageID>PackageID</PackageID>
+      <Name Text="Text">Name</Name>
+      <Description text="text">Description</Description>
+      <Refundable
+        Available="available=&quot;true&quot; refundable_until_days=&quot;2&quot; refundable_until_time=&quot;12:00&quot;" />
+    </PackageData>
+  </PropertyDataSet>
+</Transaction>

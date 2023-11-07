@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<transaction>
+  <Property>1</Property>
+  <RoomData>
+    <RoomData>
+      <RoomID>1</RoomID>
+      <Name>delux</Name>
+      <Description>ths is for delux room</Description>
+      <Capacity>3</Capacity>
+      <PhotoURL>lokesh.jpg</PhotoURL>
+    </RoomData>
+    <RoomData>
+      <RoomID>2</RoomID>
+      <Name>proper</Name>
+      <Description>awesome room</Description>
+      <Capacity>4</Capacity>
+      <PhotoURL>madhuban.jpg</PhotoURL>
+    </RoomData>
+  </RoomData>
+</transaction>
